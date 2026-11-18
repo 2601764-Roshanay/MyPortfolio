@@ -1,0 +1,1 @@
+BioinformTICS is the field that combines biology, computer science and techhnology.
